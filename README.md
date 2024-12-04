@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jubair-Amir-2233533642
 - 👀 I’m interested in Bangladesh Cricket
-- 🌱 I’m currently learning ...c
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on c
 - 📫 How to reach me there is always a way
 
